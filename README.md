@@ -12,7 +12,8 @@ An AI-based tool that detects overstimulating YouTube content for children and p
 ---
 
 ### 📊 Power BI Dashboards
-Interactive dashboards built using multiple datasets (Sales, AdventureWorks, F1) to generate insights and support decision-making.
+Interactive dashboards built using real datasets to generate insights.
+
 🔗 [View Project](https://github.com/RubaBajabaa/PowerBI-Dashboards)
 ---
 
