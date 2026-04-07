@@ -27,8 +27,10 @@ A machine learning project that predicts body performance based on input data.
 
 ---
 
-### 🎨 UI/UX Design – Saudi Adventure App
-Designed user interfaces and user experience flows using Figma for a travel/adventure application.
+### 🎨 Saudi Adventure App – UI/UX Design
+Designed a high-fidelity mobile app prototype using Figma for a travel experience.
+
+🔗 [View Project](https://github.com/RubaBajabaa/Saudi-Adventure-UIUX)
 ## 🛠 Skills
 Power BI | SQL | Python | Web Development | figma
 
