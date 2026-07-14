@@ -24,7 +24,8 @@ A web application that allows users to explore and manage recipes in an organize
 
 ### 🤖 AI Body Performance Prediction
 A machine learning project that predicts body performance based on input data.
-
+https://github.com/RubaBajabaa/body-performance-prediction.git
+🔗 [View Project](https://github.com/RubaBajabaa/body-performance-prediction.git)
 ---
 
 ### 🎨 Saudi Adventure App – UI/UX Design
