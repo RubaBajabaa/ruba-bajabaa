@@ -15,6 +15,7 @@ An AI-based tool that detects overstimulating YouTube content for children and p
 Interactive dashboards built using real datasets to generate insights.
 
 🔗 [View Project](https://github.com/RubaBajabaa/PowerBI-Dashboards)
+
 ---
 
 ### 🌐 Web Application – Recipe Platform
